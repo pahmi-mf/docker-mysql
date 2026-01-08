@@ -1,0 +1,9 @@
+# MySQL Data Directory
+mysql-data/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
